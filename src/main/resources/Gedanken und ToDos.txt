@@ -1,0 +1,23 @@
+Gedanken und ToDos
+
+- Wo liegen die Teaser-Texte?
+- Wo hin mit Bildern?
+- wie funktionieren zusammengesetzte Primärschlüssel?
+
+-Fragen an Kevin
+	- Wie können wir testen?
+		Services, Repositories und Controller werden jeweils unterschiedlich getestet
+		
+		-> Wie unterscheidet sich ein Test von Spring-Boot von normalen JUnit-Tests?
+		
+			-> welche Annotationen werden benötigt?
+			
+			-> Wie funktioniert @Autowired?
+			
+		-> Was sollen wir benutzen? Sowohl in der Prüfung als auch im Projekt? (JUnit4/JUnit5?)
+				können gerne 5 nehmen, sollte funktionieren
+		
+		
+		-> Was machen fetchtype.EAGER/fetchtype.LAZY?
+	- Wie entfernt man in einer ManyToMany-Beziehung Einträge/Verknüpfungen?
+	- Wohin mit Bildern?
